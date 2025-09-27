@@ -1,0 +1,17 @@
+# Node and TypeScript
+node_modules/
+dist/
+lib/
+.tmp/
+.temp/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-lock.yaml
+.DS_Store
+.env
+coverage/
+.vscode/
+.idea/
+*.tsbuildinfo
